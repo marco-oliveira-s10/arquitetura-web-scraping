@@ -1,4 +1,4 @@
-# Teste 4: Arquitetura e Web Scraping para Extração de Dados de PDFs
+# Arquitetura e Web Scraping para Extração de Dados de PDFs
 
 ## Cenário
 Precisamos automatizar a extração de dados de documentos PDF disponíveis em portais governamentais e sites públicos. O sistema deve baixar os PDFs, converter para texto, extrair informações específicas (nomes próprios e documentos), associar dados ao PDF original e armazenar em banco de dados, tudo isso com baixo custo operacional para processar milhões de documentos.
